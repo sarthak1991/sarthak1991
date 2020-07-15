@@ -23,7 +23,7 @@ Talk to me about
 - 💬 Ask me about anything an everything.
 - 📫 Read my blogs: [srthk blog](blog.srthk.com)
 - 🎯 Portfolio site: [Portfolio](srthk.om)
-- 🔔 Subscribe:- [Sarthak Batra](https://www.youtube.com/channel/UCSppitClTvgot89fBdRxXoA?view_as=subscriber)
+- 🔔 Subscribe:- [Sarthak Batra](https://www.twitch.tv/batrasarthak)
 - ⚡ Fun fact: Internet users blink less than usual.
 
 ![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=Sarthak1991&hide=["issues"]&show_icons=true)
