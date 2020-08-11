@@ -21,8 +21,8 @@ Talk to me about
 - Solving Data structure and algorithm questions in **JavaScript, C/C++, Java and Python**
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
-- 📫 Read my blogs: [srthk blog](blog.srthk.com)
-- 🎯 Portfolio site: [Portfolio](srthk.om)
+- 📫 Read my blogs: [srthk blog](https://blog.srthk.com/)
+- 🎯 Portfolio site: [Portfolio](https://srthk.com/)
 - 🔔 Subscribe:- [Sarthak Batra](https://www.twitch.tv/batrasarthak)
 - ⚡ Fun fact: Internet users blink less than usual.
 
