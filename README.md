@@ -9,14 +9,11 @@ Hello, I am Sarthak Batra 😃. I am from New Delhi 🏫. India I am a Full Stac
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **ReactJS, Angular, PHP**
+- Front-end development using **ReactJS, NextJS, etc**
 - Backend development using **Node(Express/Hapi), PHP Frameworks (Codeigniter, Laravel, PhalconPHP), Flask,Django**
 - Making for **Relational Database Management Systems like Postgres, MySQL, MariaDB**
-- Robust full-stack system design implementation
-- Desktop application development using **Electron**(Still learning)
 - Mobile application development using **React Native**
-- Creating scalable cloud architecture using **AWS**
-- DevOps and Deployment using **GithubActions and Netlify/Heroku**
+- DevOps and Deployment using **GithubActions**
 - Project Packaging, containerization and load balancing using **Docker and Kubernetes**
 - Solving Data structure and algorithm questions in **JavaScript, C/C++, Java and Python**
 ## Hello World!! 🤔
